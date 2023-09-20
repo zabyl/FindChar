@@ -1,0 +1,14 @@
+C:\Users\ProOne\Ugur\FindChar\bin\Debug\net7.0\FindChar.exe
+C:\Users\ProOne\Ugur\FindChar\bin\Debug\net7.0\FindChar.deps.json
+C:\Users\ProOne\Ugur\FindChar\bin\Debug\net7.0\FindChar.runtimeconfig.json
+C:\Users\ProOne\Ugur\FindChar\bin\Debug\net7.0\FindChar.dll
+C:\Users\ProOne\Ugur\FindChar\bin\Debug\net7.0\FindChar.pdb
+C:\Users\ProOne\Ugur\FindChar\obj\Debug\net7.0\FindChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProOne\Ugur\FindChar\obj\Debug\net7.0\FindChar.AssemblyInfoInputs.cache
+C:\Users\ProOne\Ugur\FindChar\obj\Debug\net7.0\FindChar.AssemblyInfo.cs
+C:\Users\ProOne\Ugur\FindChar\obj\Debug\net7.0\FindChar.csproj.CoreCompileInputs.cache
+C:\Users\ProOne\Ugur\FindChar\obj\Debug\net7.0\FindChar.dll
+C:\Users\ProOne\Ugur\FindChar\obj\Debug\net7.0\refint\FindChar.dll
+C:\Users\ProOne\Ugur\FindChar\obj\Debug\net7.0\FindChar.pdb
+C:\Users\ProOne\Ugur\FindChar\obj\Debug\net7.0\FindChar.genruntimeconfig.cache
+C:\Users\ProOne\Ugur\FindChar\obj\Debug\net7.0\ref\FindChar.dll
